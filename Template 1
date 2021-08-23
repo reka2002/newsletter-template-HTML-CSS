@@ -1,5 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" style="font-family:arial, 'helvetica neue', helvetica, sans-serif">
+
+
+<! Some definition from w3 schools: >
+
+
+<!The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. >
+<! <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.>
+<! Metadata will not be displayed on the page, but is machine parsable. It is used by browsers (how to display content or reload page), search engines (keywords), and other web services.>
+
+<! XML and HTML were designed with different goals:
+<! - XML was designed to carry data - with focus on what data is>
+<! - HTML was designed to display data - with focus on how data looks>
+<! - XML tags are not predefined like HTML tags are>
+
+<! The !important rule in CSS is used to add more importance to a property/value than normal. If you use the !important rule, it will override ALL previous styling rules for that specific property on that element!>
+
+
 <head> 
 <meta content="width=device-width, initial-scale=1" name="viewport"> 
 <meta charset="UTF-8"> 
@@ -74,6 +91,10 @@ border-top: 3px solid #05275a;
 box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
 </style> 
 </head> 
+
+
+
+
 <body style="width:100%;font-family:arial, 'helvetica neue', helvetica, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0"> 
 <div class="es-wrapper-color" style="background-color:#05275A"> 
 <!--[if gte mso 9]>
