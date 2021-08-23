@@ -1,0 +1,35 @@
+
+<!Animation example from https://www.w3schools.com/cssref/tryit.asp?filename=trycss_anim_font-weight >
+
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#myDIV {
+  border: 1px solid black;
+  width: 400px;
+  height: 100px;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {font: 40px bold;}
+}
+</style>
+</head>
+<body>
+
+<h1>Animation of font</h1>
+
+<p>Gradually change the font property:<p>
+<div id="myDIV">
+  <p>This is a paragraph</p>
+</div>
+
+<p>The font property is a shorthand property for all font properties.</p>
+<p>font-size, font-weight, font-stretch, and line-height are <em>animatable</em> in CSS.</p>
+<p><b>Note:</b> CSS Animations do not work in Internet Explorer 9 and earlier versions.</p>
+
+</body>
+</html>
+
