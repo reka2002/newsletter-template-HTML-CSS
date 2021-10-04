@@ -1,5 +1,5 @@
 # newsletter-template-HTML-CSS
-HTML and CSS code edited together from different templates and w3 school tricks.
+HTML and CSS code edited together from different templates and w3 school tricks. Main template: 
 
 ## Setting up
 The code can be edited in Visual Studio Code.
