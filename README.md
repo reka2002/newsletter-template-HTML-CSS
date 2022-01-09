@@ -6,8 +6,10 @@ HTML and CSS code for newsletter edited together from different templates and w3
 The code can be edited in Visual Studio Code.
 Download Visual Studio Code [from here](https://code.visualstudio.com).
 
-[Another code editor] (https://htmlcodeeditor.com)
+[Another code editor] (https://htmlcodeeditor.com).
+
 [Email editor] (https://www.htmlemailcheck.com/check/)
+
 [Spam test] (https://www.mail-tester.com/test-hi5m8zxuy&reloaded=5) 
 
 
