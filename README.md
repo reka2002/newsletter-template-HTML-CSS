@@ -1,5 +1,5 @@
 # newsletter-template-HTML-CSS
-HTML and CSS code edited together from different templates and w3 school tricks. 
+HTML and CSS codefor newsletter, edited together from different templates and w3 school tricks. 
 
 
 ## Setting up
@@ -18,6 +18,11 @@ extension.
 But this way the emails will end up in spam probably. )
 
 
+## Brand Kit
+Backround colour codes:
+Font colour codes:
+
+Fonts:
 
 
 ### (no .gitignore made)
