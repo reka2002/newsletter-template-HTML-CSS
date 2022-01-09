@@ -1,11 +1,14 @@
 # newsletter-template-HTML-CSS
-HTML and CSS codefor newsletter, edited together from different templates and w3 school tricks. 
+HTML and CSS code for newsletter edited together from different templates and w3 school tricks. 
 
 
 ## Setting up
 The code can be edited in Visual Studio Code.
-
 Download Visual Studio Code [from here](https://code.visualstudio.com).
+
+[Another code editor] (https://htmlcodeeditor.com)
+[Email editor] (https://www.htmlemailcheck.com/check/)
+[Spam test] (https://www.mail-tester.com/test-hi5m8zxuy&reloaded=5) 
 
 
 ## Sending the email in HTML 
@@ -19,10 +22,10 @@ But this way the emails will end up in spam probably. )
 
 
 ## Brand Kit
-Backround colour codes:
-Font colour codes:
+Backround colour codes: #05275a, #f2f0eb, #f0ebe0
+Font colour codes: #05275a, #D9E6F7
 
-Fonts:
+Fonts: 
 
 
 ### (no .gitignore made)
