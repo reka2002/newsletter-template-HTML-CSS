@@ -13,7 +13,7 @@ Download Visual Studio Code [from here](https://code.visualstudio.com).
 
 [Spam test](https://www.mail-tester.com) 
 
-[Stripo] (https://viewstripo.email/?gclid=Cj0KCQjwr4eYBhDrARIsANPywCiEAH5QAqEXMQkTMwt8Oy3eelsUKYGgODsu-vtIxzvsTgGeCIodPpgaAjPFEALw_wcB)
+[Stripo] (https://stripo.email)
 
 
 ## Sending the email in HTML 
