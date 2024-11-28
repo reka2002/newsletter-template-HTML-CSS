@@ -20,15 +20,15 @@ Download Visual Studio Code [from here](https://code.visualstudio.com).
 
 Use [MailChimp](https://mailchimp.com) to send out the emails.
 
+Enbed HTML to Outlook directly, as explained in [this tutorial](https://www.youtube.com/watch?v=JnszKj2oFwU).
+
 (Another way: 
 To insert HTML in GMAIL, download the [HTML Inserter for Gmail](https://chrome.google.com/webstore/detail/html-inserter-for-gmail/obngoldljmnnpggbekneikaohbeflbee/related?hl=en) 
 extension.
 But this way the emails will end up in spam probably. )
 
 
-## Brand Kit
-Backround colour codes: #05275a, #f2f0eb, #f0ebe0
-Font colour codes: #05275a, #D9E6F7
+
 
  
 
