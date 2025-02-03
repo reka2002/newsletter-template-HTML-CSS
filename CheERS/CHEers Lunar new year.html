@@ -314,7 +314,7 @@
                   style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                   <tr style="border-collapse:collapse">
                     <td align="center" style="padding:0;Margin:0;font-size:0"><img class="adapt-img"
-                      src="https://lzqqcs.stripocdn.email/content/guids/CABINET_ea08953d213d8aee86a3865aaf61cff32eb91a9c033fcf15a1dc40d597d25a6c/images/red_yellow_colorful_playful_illustrative_modern_happy_chinese_new_year_presentation2.png"
+                      src="https://lzqqcs.stripocdn.email/content/guids/CABINET_ea08953d213d8aee86a3865aaf61cff32eb91a9c033fcf15a1dc40d597d25a6c/images/red_yellow_colorful_playful_illustrative_modern_happy_chinese_new_year_presentation3.png"
                         alt
                         style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic"
                         width="600" height="464"></td>
