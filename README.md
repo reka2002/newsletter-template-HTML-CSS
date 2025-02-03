@@ -6,14 +6,10 @@ HTML code for newsletter edited together from different templates and w3 school 
 The code can be edited in Visual Studio Code [from here](https://code.visualstudio.com).
 
 Useful websites:
-
-[Online code editor](https://htmlcodeeditor.com)
-
-[Email editor](https://www.htmlemailcheck.com/check/)
-
-[Spam test](https://www.mail-tester.com) 
-
-[Stripo](https://stripo.email)
+- [Online code editor](https://htmlcodeeditor.com)
+- [Email editor](https://www.htmlemailcheck.com/check/)
+- [Spam test](https://www.mail-tester.com)
+- [Stripo](https://stripo.email)
 
 
 ## Sending the email in HTML 
