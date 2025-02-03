@@ -1,13 +1,13 @@
 # newsletter-template-HTML-CSS
-HTML and CSS code for newsletter edited together from different templates and w3 school tricks. 
+HTML code for newsletter edited together from different templates and w3 school tricks. 
 
 
 ## Setting up
-The code can be edited in Visual Studio Code.
-Download Visual Studio Code [from here](https://code.visualstudio.com).
+The code can be edited in Visual Studio Code [from here](https://code.visualstudio.com).
 
+Useful websites:
 
-[Another code editor](https://htmlcodeeditor.com)
+[Online code editor](https://htmlcodeeditor.com)
 
 [Email editor](https://www.htmlemailcheck.com/check/)
 
