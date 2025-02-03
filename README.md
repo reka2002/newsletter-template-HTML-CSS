@@ -1,8 +1,17 @@
 # newsletter-template-HTML-CSS
 HTML code for newsletter edited together from different templates and w3 school tricks. 
 
+# Structure
+```
+├── Animations                            # General animations
+├── CHEers                                # Newsletters for UCL Chemical Engineering Researcher's Society (CHEers)
+├── UCL Engineering Ambassador Project    # Newsletter for 'Get your voice heard' UCL Engineering Ambassador Project
+├── Templates                             # General newsletter templates
+├── UCLEs                                 # Newsletters for UCL Engineering Society (UCLES)
 
-## Setting up
+
+```
+# Setting up
 The code can be edited in Visual Studio Code [from here](https://code.visualstudio.com).
 
 Useful websites:
@@ -12,7 +21,7 @@ Useful websites:
 - [Stripo](https://stripo.email)
 
 
-## Sending the email in HTML 
+# Sending the email in HTML 
 
 Use [MailChimp](https://mailchimp.com) to send out the emails.
 
