@@ -25,7 +25,7 @@ Useful websites:
 
 Use [MailChimp](https://mailchimp.com) to send out the emails.
 
-Enbed HTML to Outlook directly, as explained in [this tutorial](https://www.youtube.com/watch?v=JnszKj2oFwU).
+Enbed HTML to Outlook directly, as explained in [this tutorial](https://www.youtube.com/watch?v=JnszKj2oFwU). (control + SHIFT + J)
 
 (Another way: 
 To insert HTML in GMAIL, download the [HTML Inserter for Gmail](https://chrome.google.com/webstore/detail/html-inserter-for-gmail/obngoldljmnnpggbekneikaohbeflbee/related?hl=en) 
