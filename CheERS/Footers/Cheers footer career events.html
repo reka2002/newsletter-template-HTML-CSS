@@ -1,0 +1,60 @@
+<td class="esd-structure es-p20t es-p20b es-p20r es-p20l" align="left" bgcolor="#ffffff" style="background-color: #ffffff;">
+  <table cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+          <tr>
+              <td width="560" class="esd-container-frame" align="left">
+                  <table cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                          <tr>
+                              <td align="left" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://lzqqcs.stripocdn.email/content/guids/CABINET_ea08953d213d8aee86a3865aaf61cff32eb91a9c033fcf15a1dc40d597d25a6c/images/logos.gif" alt style="display: block;" width="273"></a></td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-spacer es-p20" style="font-size:0">
+                                  <table border="0" width="55%" height="100%" cellpadding="0" cellspacing="0">
+                                      <tbody>
+                                          <tr>
+                                              <td style="border-bottom: 1px solid #cccccc; background: unset; height:0px; width:100%; margin:0px 0px 0px 0px;"></td>
+                                          </tr>
+                                      </tbody>
+                                  </table>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-text es-p15">
+                                  <p><b>Chemical Engineering Researchers Society</b></p>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-text">
+                                  <p></p>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-image" style="font-size: 0px;"><a target="_blank" href="https://www.gradcracker.com/student-societies/4249/ucl-chemical-engineering-researchers-society"><img class="adapt-img" src="https://lzqqcs.stripocdn.email/content/guids/CABINET_ae3746a61ea5f95c0a73493516ca1f7c51e75362c8ba2559c03d6678a91c15b5/images/image2.png" alt style="display: block;" width="223"></a></td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-text">
+                                  <p></p>
+                              </td>
+                          </tr>
+                          <tr>
+                              <td align="left" class="esd-block-social" style="font-size:0">
+                                  <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" dir="ltr">
+                                      <tbody>
+                                          <tr>
+                                              <td align="center" valign="top" class="es-p10r"><a target="_blank" href="https://www.instagram.com/cheers_ucl/"><img src="https://lzqqcs.stripocdn.email/content/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Ig" title="Instagram" width="32" height="32"></a></td>
+                                              <td align="center" valign="top" class="es-p10r" esd-tmp-icon-type="facebook"><a target="_blank" href="https://www.facebook.com/cheersUCL"><img src="https://lzqqcs.stripocdn.email/content/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" title="Facebook" width="32" height="32"></a></td>
+                                              <td align="center" valign="top" class="es-p10r" esd-tmp-icon-type="twitter"><a target="_blank" href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2Fcheers_ucl%3Fs%3D21%26t%3D7kRUFzsjJRsBEDVKGmxDLw&data=05%7C02%7Creka.keresztes.20%40ucl.ac.uk%7C41ae60e2ac3a4d4190fe08dd416b8a56%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C638738652343643091%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pscsYDgSSPevv7SQh7MI95iG1vX3oqYKdrsEMp9D5RE%3D&reserved=0"><img src="https://lzqqcs.stripocdn.email/content/assets/img/social-icons/circle-colored/x-circle-colored.png" alt="X" title="X" width="32" height="32"></a></td>
+                                              <td align="center" valign="top" esd-tmp-icon-type="linkedin"><a target="_blank" href="https://www.linkedin.com/company/cheers-ucl/posts/?feedView=all"><img src="https://lzqqcs.stripocdn.email/content/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" alt="In" title="LinkedIn" width="32" height="32"></a></td>
+                                          </tr>
+                                      </tbody>
+                                  </table>
+                              </td>
+                          </tr>
+                      </tbody>
+                  </table>
+              </td>
+          </tr>
+      </tbody>
+  </table>
+</td>
